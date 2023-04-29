@@ -7,8 +7,8 @@
   "types": "dist/index.d.ts",
   "scripts": {
     "build": "tsup index.ts --format cjs,esm --dts",
-    "test": "npx tap --node-arg=--require=ts-node/register; exit 0",
-    "gen-test-snapshot": "npx tap --node-arg=--require=ts-node/register --snapshot; exit 0",
+    "test": "npx tap --node-arg=--require=ts-node/register",
+    "gen-test-snapshot": "npx tap --node-arg=--require=ts-node/register --snapshot",
     "lint": "tsc"
   },
   "devDependencies": {
