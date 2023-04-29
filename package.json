@@ -1,0 +1,28 @@
+{
+  "name": "fooddata-central-api",
+  "license": "MIT",
+  "version": "0.0.1",
+  "main": "dist/index.js",
+  "module": "dist/index.mjs",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsup index.ts --format cjs,esm --dts",
+    "test": "npx tap --node-arg=--require=ts-node/register; exit 0",
+    "gen-test-snapshot": "npx tap --node-arg=--require=ts-node/register --snapshot; exit 0",
+    "lint": "tsc"
+  },
+  "devDependencies": {
+    "@changesets/cli": "^2.26.1",
+    "@types/node": "^18.16.3",
+    "@types/tap": "^15.0.8",
+    "dotenv": "^16.0.3",
+    "tap": "^16.3.4",
+    "ts-node": "^10.9.1",
+    "ts-to-zod": "^3.0.0",
+    "tsup": "^6.7.0",
+    "typescript": "^5.0.4"
+  },
+  "dependencies": {
+    "zod": "^3.21.4"
+  }
+}
