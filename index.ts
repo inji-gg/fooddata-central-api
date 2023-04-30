@@ -11,8 +11,8 @@ import {
   SearchResult,
 } from "./src/types";
 
+// Types
 export type {
-  // Types
   FoodNutrientUnit,
   DataType,
   SortBy,
@@ -22,6 +22,7 @@ export type {
   AbridgedFoodNutrient,
   SearchResultFood,
   SearchResult,
-  // API
-  findFood,
 };
+
+// API
+export { findFood };
