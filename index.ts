@@ -1,20 +1,20 @@
-import { findFood } from "./src/api";
+// Enums
 import {
   FoodNutrientUnit,
   DataType,
   SortBy,
   SortOrder,
   TradeChannel,
+} from "./src/types";
+export { FoodNutrientUnit, DataType, SortBy, SortOrder, TradeChannel };
+
+// Interfaces
+import type {
   FoodSearchCriteria,
   AbridgedFoodNutrient,
   SearchResultFood,
   SearchResult,
 } from "./src/types";
-
-// Enums
-export { FoodNutrientUnit, DataType, SortBy, SortOrder, TradeChannel };
-
-// Interfaces
 export type {
   FoodSearchCriteria,
   AbridgedFoodNutrient,
@@ -23,4 +23,5 @@ export type {
 };
 
 // API
+import { findFood } from "./src/api";
 export { findFood };
