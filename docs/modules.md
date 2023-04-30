@@ -58,4 +58,4 @@ List of foods that matched search terms
 
 #### Defined in
 
-[src/api.ts:24](https://github.com/inji-gg/fooddata-central-api/blob/faf270d/src/api.ts#L24)
+[src/api.ts:24](https://github.com/inji-gg/fooddata-central-api/blob/2c5a8c7/src/api.ts#L24)

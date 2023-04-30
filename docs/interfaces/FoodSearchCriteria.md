@@ -35,7 +35,7 @@ applies to Branded Foods.
 
 #### Defined in
 
-[src/types.ts:133](https://github.com/inji-gg/fooddata-central-api/blob/faf270d/src/types.ts#L133)
+[src/types.ts:133](https://github.com/inji-gg/fooddata-central-api/blob/2c5a8c7/src/types.ts#L133)
 
 ___
 
@@ -62,7 +62,7 @@ array.
 
 #### Defined in
 
-[src/types.ts:95](https://github.com/inji-gg/fooddata-central-api/blob/faf270d/src/types.ts#L95)
+[src/types.ts:95](https://github.com/inji-gg/fooddata-central-api/blob/2c5a8c7/src/types.ts#L95)
 
 ___
 
@@ -80,7 +80,7 @@ Filter foods published on or before this date. Format: YYYY-MM-DD
 
 #### Defined in
 
-[src/types.ts:153](https://github.com/inji-gg/fooddata-central-api/blob/faf270d/src/types.ts#L153)
+[src/types.ts:153](https://github.com/inji-gg/fooddata-central-api/blob/2c5a8c7/src/types.ts#L153)
 
 ___
 
@@ -99,7 +99,7 @@ is expressed as (pageNumber * pageSize)
 
 #### Defined in
 
-[src/types.ts:111](https://github.com/inji-gg/fooddata-central-api/blob/faf270d/src/types.ts#L111)
+[src/types.ts:111](https://github.com/inji-gg/fooddata-central-api/blob/2c5a8c7/src/types.ts#L111)
 
 ___
 
@@ -126,7 +126,7 @@ Default is 50.
 
 #### Defined in
 
-[src/types.ts:104](https://github.com/inji-gg/fooddata-central-api/blob/faf270d/src/types.ts#L104)
+[src/types.ts:104](https://github.com/inji-gg/fooddata-central-api/blob/2c5a8c7/src/types.ts#L104)
 
 ___
 
@@ -173,7 +173,7 @@ contain all of the words that were entered in the search field.
 
 #### Defined in
 
-[src/types.ts:86](https://github.com/inji-gg/fooddata-central-api/blob/faf270d/src/types.ts#L86)
+[src/types.ts:86](https://github.com/inji-gg/fooddata-central-api/blob/2c5a8c7/src/types.ts#L86)
 
 ___
 
@@ -186,7 +186,7 @@ words that were entered in the search field.
 
 #### Defined in
 
-[src/types.ts:159](https://github.com/inji-gg/fooddata-central-api/blob/faf270d/src/types.ts#L159)
+[src/types.ts:159](https://github.com/inji-gg/fooddata-central-api/blob/2c5a8c7/src/types.ts#L159)
 
 ___
 
@@ -206,7 +206,7 @@ description in future releases.
 
 #### Defined in
 
-[src/types.ts:119](https://github.com/inji-gg/fooddata-central-api/blob/faf270d/src/types.ts#L119)
+[src/types.ts:119](https://github.com/inji-gg/fooddata-central-api/blob/2c5a8c7/src/types.ts#L119)
 
 ___
 
@@ -225,7 +225,7 @@ is specified.
 
 #### Defined in
 
-[src/types.ts:126](https://github.com/inji-gg/fooddata-central-api/blob/faf270d/src/types.ts#L126)
+[src/types.ts:126](https://github.com/inji-gg/fooddata-central-api/blob/2c5a8c7/src/types.ts#L126)
 
 ___
 
@@ -243,7 +243,7 @@ Filter foods published on or after this date. Format: YYYY-MM-DD
 
 #### Defined in
 
-[src/types.ts:147](https://github.com/inji-gg/fooddata-central-api/blob/faf270d/src/types.ts#L147)
+[src/types.ts:147](https://github.com/inji-gg/fooddata-central-api/blob/2c5a8c7/src/types.ts#L147)
 
 ___
 
@@ -269,4 +269,4 @@ Optional. Filter foods containing any of the specified trade channels.
 
 #### Defined in
 
-[src/types.ts:141](https://github.com/inji-gg/fooddata-central-api/blob/faf270d/src/types.ts#L141)
+[src/types.ts:141](https://github.com/inji-gg/fooddata-central-api/blob/2c5a8c7/src/types.ts#L141)

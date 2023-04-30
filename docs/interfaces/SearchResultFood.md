@@ -38,7 +38,7 @@ Any additional descriptions of the food.
 
 #### Defined in
 
-[src/types.ts:253](https://github.com/inji-gg/fooddata-central-api/blob/faf270d/src/types.ts#L253)
+[src/types.ts:253](https://github.com/inji-gg/fooddata-central-api/blob/2c5a8c7/src/types.ts#L253)
 
 ___
 
@@ -50,7 +50,7 @@ allHighlightFields
 
 #### Defined in
 
-[src/types.ts:256](https://github.com/inji-gg/fooddata-central-api/blob/faf270d/src/types.ts#L256)
+[src/types.ts:256](https://github.com/inji-gg/fooddata-central-api/blob/2c5a8c7/src/types.ts#L256)
 
 ___
 
@@ -68,7 +68,7 @@ Brand owner for the food. Only applies to Branded Foods.
 
 #### Defined in
 
-[src/types.ts:235](https://github.com/inji-gg/fooddata-central-api/blob/faf270d/src/types.ts#L235)
+[src/types.ts:235](https://github.com/inji-gg/fooddata-central-api/blob/2c5a8c7/src/types.ts#L235)
 
 ___
 
@@ -86,7 +86,7 @@ The type of the food data.
 
 #### Defined in
 
-[src/types.ts:214](https://github.com/inji-gg/fooddata-central-api/blob/faf270d/src/types.ts#L214)
+[src/types.ts:214](https://github.com/inji-gg/fooddata-central-api/blob/2c5a8c7/src/types.ts#L214)
 
 ___
 
@@ -98,7 +98,7 @@ The description of the food.
 
 #### Defined in
 
-[src/types.ts:208](https://github.com/inji-gg/fooddata-central-api/blob/faf270d/src/types.ts#L208)
+[src/types.ts:208](https://github.com/inji-gg/fooddata-central-api/blob/2c5a8c7/src/types.ts#L208)
 
 ___
 
@@ -110,7 +110,7 @@ Unique ID of the food.
 
 #### Defined in
 
-[src/types.ts:205](https://github.com/inji-gg/fooddata-central-api/blob/faf270d/src/types.ts#L205)
+[src/types.ts:205](https://github.com/inji-gg/fooddata-central-api/blob/2c5a8c7/src/types.ts#L205)
 
 ___
 
@@ -122,7 +122,7 @@ Any unique ID identifying the food within FNDDS.
 
 #### Defined in
 
-[src/types.ts:217](https://github.com/inji-gg/fooddata-central-api/blob/faf270d/src/types.ts#L217)
+[src/types.ts:217](https://github.com/inji-gg/fooddata-central-api/blob/2c5a8c7/src/types.ts#L217)
 
 ___
 
@@ -134,7 +134,7 @@ An array of AbridgedFoodNutrient objects.
 
 #### Defined in
 
-[src/types.ts:220](https://github.com/inji-gg/fooddata-central-api/blob/faf270d/src/types.ts#L220)
+[src/types.ts:220](https://github.com/inji-gg/fooddata-central-api/blob/2c5a8c7/src/types.ts#L220)
 
 ___
 
@@ -152,7 +152,7 @@ GTIN or UPC code identifying the food. Only applies to Branded Foods.
 
 #### Defined in
 
-[src/types.ts:241](https://github.com/inji-gg/fooddata-central-api/blob/faf270d/src/types.ts#L241)
+[src/types.ts:241](https://github.com/inji-gg/fooddata-central-api/blob/2c5a8c7/src/types.ts#L241)
 
 ___
 
@@ -164,7 +164,7 @@ The list of ingredients (as it appears on the product label). Only applies to Br
 
 #### Defined in
 
-[src/types.ts:244](https://github.com/inji-gg/fooddata-central-api/blob/faf270d/src/types.ts#L244)
+[src/types.ts:244](https://github.com/inji-gg/fooddata-central-api/blob/2c5a8c7/src/types.ts#L244)
 
 ___
 
@@ -176,7 +176,7 @@ Unique number assigned for foundation foods. Only applies to Foundation and SRLe
 
 #### Defined in
 
-[src/types.ts:247](https://github.com/inji-gg/fooddata-central-api/blob/faf270d/src/types.ts#L247)
+[src/types.ts:247](https://github.com/inji-gg/fooddata-central-api/blob/2c5a8c7/src/types.ts#L247)
 
 ___
 
@@ -194,7 +194,7 @@ Date the item was published to FDC.
 
 #### Defined in
 
-[src/types.ts:226](https://github.com/inji-gg/fooddata-central-api/blob/faf270d/src/types.ts#L226)
+[src/types.ts:226](https://github.com/inji-gg/fooddata-central-api/blob/2c5a8c7/src/types.ts#L226)
 
 ___
 
@@ -206,7 +206,7 @@ The scientific name of the food.
 
 #### Defined in
 
-[src/types.ts:229](https://github.com/inji-gg/fooddata-central-api/blob/faf270d/src/types.ts#L229)
+[src/types.ts:229](https://github.com/inji-gg/fooddata-central-api/blob/2c5a8c7/src/types.ts#L229)
 
 ___
 
@@ -218,7 +218,7 @@ Relative score indicating how well the food matches the search criteria.
 
 #### Defined in
 
-[src/types.ts:261](https://github.com/inji-gg/fooddata-central-api/blob/faf270d/src/types.ts#L261)
+[src/types.ts:261](https://github.com/inji-gg/fooddata-central-api/blob/2c5a8c7/src/types.ts#L261)
 
 ___
 
@@ -236,4 +236,4 @@ set accordingly.
 
 #### Defined in
 
-[src/types.ts:272](https://github.com/inji-gg/fooddata-central-api/blob/faf270d/src/types.ts#L272)
+[src/types.ts:272](https://github.com/inji-gg/fooddata-central-api/blob/2c5a8c7/src/types.ts#L272)

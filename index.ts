@@ -11,7 +11,7 @@ import {
   SearchResult,
 } from "./src/types";
 
-export {
+export type {
   // Types
   FoodNutrientUnit,
   DataType,
