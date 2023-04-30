@@ -30,7 +30,7 @@ The derivation code of the nutrient.
 
 #### Defined in
 
-[src/types.ts:194](https://github.com/inji-gg/fooddata-central-api/blob/2c5a8c7/src/types.ts#L194)
+[src/types.ts:194](https://github.com/inji-gg/fooddata-central-api/blob/4f116a9/src/types.ts#L194)
 
 ___
 
@@ -48,7 +48,7 @@ The derivation description of the nutrient.
 
 #### Defined in
 
-[src/types.ts:200](https://github.com/inji-gg/fooddata-central-api/blob/2c5a8c7/src/types.ts#L200)
+[src/types.ts:200](https://github.com/inji-gg/fooddata-central-api/blob/4f116a9/src/types.ts#L200)
 
 ___
 
@@ -60,7 +60,7 @@ A unique identifier for the nutrient
 
 #### Defined in
 
-[src/types.ts:164](https://github.com/inji-gg/fooddata-central-api/blob/2c5a8c7/src/types.ts#L164)
+[src/types.ts:164](https://github.com/inji-gg/fooddata-central-api/blob/4f116a9/src/types.ts#L164)
 
 ___
 
@@ -78,7 +78,7 @@ The name of the nutrient.
 
 #### Defined in
 
-[src/types.ts:170](https://github.com/inji-gg/fooddata-central-api/blob/2c5a8c7/src/types.ts#L170)
+[src/types.ts:170](https://github.com/inji-gg/fooddata-central-api/blob/4f116a9/src/types.ts#L170)
 
 ___
 
@@ -96,7 +96,7 @@ The number representing the nutrient.
 
 #### Defined in
 
-[src/types.ts:176](https://github.com/inji-gg/fooddata-central-api/blob/2c5a8c7/src/types.ts#L176)
+[src/types.ts:176](https://github.com/inji-gg/fooddata-central-api/blob/4f116a9/src/types.ts#L176)
 
 ___
 
@@ -114,7 +114,7 @@ The unit name of the nutrient.
 
 #### Defined in
 
-[src/types.ts:182](https://github.com/inji-gg/fooddata-central-api/blob/2c5a8c7/src/types.ts#L182)
+[src/types.ts:182](https://github.com/inji-gg/fooddata-central-api/blob/4f116a9/src/types.ts#L182)
 
 ___
 
@@ -132,4 +132,4 @@ The amount of the nutrient.
 
 #### Defined in
 
-[src/types.ts:188](https://github.com/inji-gg/fooddata-central-api/blob/2c5a8c7/src/types.ts#L188)
+[src/types.ts:188](https://github.com/inji-gg/fooddata-central-api/blob/4f116a9/src/types.ts#L188)

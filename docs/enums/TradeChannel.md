@@ -23,7 +23,7 @@
 
 #### Defined in
 
-[src/types.ts:37](https://github.com/inji-gg/fooddata-central-api/blob/2c5a8c7/src/types.ts#L37)
+[src/types.ts:37](https://github.com/inji-gg/fooddata-central-api/blob/4f116a9/src/types.ts#L37)
 
 ___
 
@@ -33,7 +33,7 @@ ___
 
 #### Defined in
 
-[src/types.ts:38](https://github.com/inji-gg/fooddata-central-api/blob/2c5a8c7/src/types.ts#L38)
+[src/types.ts:38](https://github.com/inji-gg/fooddata-central-api/blob/4f116a9/src/types.ts#L38)
 
 ___
 
@@ -43,7 +43,7 @@ ___
 
 #### Defined in
 
-[src/types.ts:39](https://github.com/inji-gg/fooddata-central-api/blob/2c5a8c7/src/types.ts#L39)
+[src/types.ts:39](https://github.com/inji-gg/fooddata-central-api/blob/4f116a9/src/types.ts#L39)
 
 ___
 
@@ -53,7 +53,7 @@ ___
 
 #### Defined in
 
-[src/types.ts:40](https://github.com/inji-gg/fooddata-central-api/blob/2c5a8c7/src/types.ts#L40)
+[src/types.ts:40](https://github.com/inji-gg/fooddata-central-api/blob/4f116a9/src/types.ts#L40)
 
 ___
 
@@ -63,7 +63,7 @@ ___
 
 #### Defined in
 
-[src/types.ts:41](https://github.com/inji-gg/fooddata-central-api/blob/2c5a8c7/src/types.ts#L41)
+[src/types.ts:41](https://github.com/inji-gg/fooddata-central-api/blob/4f116a9/src/types.ts#L41)
 
 ___
 
@@ -73,7 +73,7 @@ ___
 
 #### Defined in
 
-[src/types.ts:42](https://github.com/inji-gg/fooddata-central-api/blob/2c5a8c7/src/types.ts#L42)
+[src/types.ts:42](https://github.com/inji-gg/fooddata-central-api/blob/4f116a9/src/types.ts#L42)
 
 ___
 
@@ -83,7 +83,7 @@ ___
 
 #### Defined in
 
-[src/types.ts:43](https://github.com/inji-gg/fooddata-central-api/blob/2c5a8c7/src/types.ts#L43)
+[src/types.ts:43](https://github.com/inji-gg/fooddata-central-api/blob/4f116a9/src/types.ts#L43)
 
 ___
 
@@ -93,4 +93,4 @@ ___
 
 #### Defined in
 
-[src/types.ts:44](https://github.com/inji-gg/fooddata-central-api/blob/2c5a8c7/src/types.ts#L44)
+[src/types.ts:44](https://github.com/inji-gg/fooddata-central-api/blob/4f116a9/src/types.ts#L44)

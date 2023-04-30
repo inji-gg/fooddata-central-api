@@ -19,7 +19,7 @@
 
 #### Defined in
 
-[src/types.ts:18](https://github.com/inji-gg/fooddata-central-api/blob/2c5a8c7/src/types.ts#L18)
+[src/types.ts:18](https://github.com/inji-gg/fooddata-central-api/blob/4f116a9/src/types.ts#L18)
 
 ___
 
@@ -29,7 +29,7 @@ ___
 
 #### Defined in
 
-[src/types.ts:19](https://github.com/inji-gg/fooddata-central-api/blob/2c5a8c7/src/types.ts#L19)
+[src/types.ts:19](https://github.com/inji-gg/fooddata-central-api/blob/4f116a9/src/types.ts#L19)
 
 ___
 
@@ -39,7 +39,7 @@ ___
 
 #### Defined in
 
-[src/types.ts:21](https://github.com/inji-gg/fooddata-central-api/blob/2c5a8c7/src/types.ts#L21)
+[src/types.ts:21](https://github.com/inji-gg/fooddata-central-api/blob/4f116a9/src/types.ts#L21)
 
 ___
 
@@ -49,4 +49,4 @@ ___
 
 #### Defined in
 
-[src/types.ts:20](https://github.com/inji-gg/fooddata-central-api/blob/2c5a8c7/src/types.ts#L20)
+[src/types.ts:20](https://github.com/inji-gg/fooddata-central-api/blob/4f116a9/src/types.ts#L20)

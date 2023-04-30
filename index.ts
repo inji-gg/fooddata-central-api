@@ -11,13 +11,11 @@ import {
   SearchResult,
 } from "./src/types";
 
-// Types
+// Enums
+export { FoodNutrientUnit, DataType, SortBy, SortOrder, TradeChannel };
+
+// Interfaces
 export type {
-  FoodNutrientUnit,
-  DataType,
-  SortBy,
-  SortOrder,
-  TradeChannel,
   FoodSearchCriteria,
   AbridgedFoodNutrient,
   SearchResultFood,

@@ -22,7 +22,7 @@ The current page of results being returned.
 
 #### Defined in
 
-[src/types.ts:290](https://github.com/inji-gg/fooddata-central-api/blob/2c5a8c7/src/types.ts#L290)
+[src/types.ts:290](https://github.com/inji-gg/fooddata-central-api/blob/4f116a9/src/types.ts#L290)
 
 ___
 
@@ -34,7 +34,7 @@ A copy of the criteria that were used in the search.
 
 #### Defined in
 
-[src/types.ts:279](https://github.com/inji-gg/fooddata-central-api/blob/2c5a8c7/src/types.ts#L279)
+[src/types.ts:279](https://github.com/inji-gg/fooddata-central-api/blob/4f116a9/src/types.ts#L279)
 
 ___
 
@@ -47,7 +47,7 @@ below.
 
 #### Defined in
 
-[src/types.ts:301](https://github.com/inji-gg/fooddata-central-api/blob/2c5a8c7/src/types.ts#L301)
+[src/types.ts:301](https://github.com/inji-gg/fooddata-central-api/blob/4f116a9/src/types.ts#L301)
 
 ___
 
@@ -65,7 +65,7 @@ The total number of foods found matching the search criteria.
 
 #### Defined in
 
-[src/types.ts:285](https://github.com/inji-gg/fooddata-central-api/blob/2c5a8c7/src/types.ts#L285)
+[src/types.ts:285](https://github.com/inji-gg/fooddata-central-api/blob/4f116a9/src/types.ts#L285)
 
 ___
 
@@ -77,4 +77,4 @@ The total number of pages found matching the search criteria.
 
 #### Defined in
 
-[src/types.ts:295](https://github.com/inji-gg/fooddata-central-api/blob/2c5a8c7/src/types.ts#L295)
+[src/types.ts:295](https://github.com/inji-gg/fooddata-central-api/blob/4f116a9/src/types.ts#L295)

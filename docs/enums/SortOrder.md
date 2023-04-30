@@ -17,7 +17,7 @@
 
 #### Defined in
 
-[src/types.ts:32](https://github.com/inji-gg/fooddata-central-api/blob/2c5a8c7/src/types.ts#L32)
+[src/types.ts:32](https://github.com/inji-gg/fooddata-central-api/blob/4f116a9/src/types.ts#L32)
 
 ___
 
@@ -27,4 +27,4 @@ ___
 
 #### Defined in
 
-[src/types.ts:33](https://github.com/inji-gg/fooddata-central-api/blob/2c5a8c7/src/types.ts#L33)
+[src/types.ts:33](https://github.com/inji-gg/fooddata-central-api/blob/4f116a9/src/types.ts#L33)
