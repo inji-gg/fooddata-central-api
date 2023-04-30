@@ -7,6 +7,7 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    environment: production
     steps:
       - uses: actions/checkout@v3
       - uses: pnpm/action-setup@v2
@@ -19,3 +20,9 @@ jobs:
 
       - run: pnpm install --frozen-lockfile
       - run: pnpm run lint && pnpm run build
+
+      - name: Run Tests
+        id: tests
+        run: pnpm run test
+        env:
+          FDC_API_KEY: ${{ secrets.FDC_API_KEY }}
