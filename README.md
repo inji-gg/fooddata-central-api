@@ -4,7 +4,7 @@ Wrapper over FoodData Central Rest APIs for Typescript
 
 ---
 
-## [API Reference](docs/modules.md)
+**[API Reference](docs/modules.md)**
 
 ---
 
