@@ -15,7 +15,7 @@
   },
   "devDependencies": {
     "@changesets/cli": "^2.26.1",
-    "@types/node": "^18.16.3",
+    "@types/node": "^18.16.5",
     "@types/tap": "^15.0.8",
     "dotenv": "^16.0.3",
     "tap": "^16.3.4",
